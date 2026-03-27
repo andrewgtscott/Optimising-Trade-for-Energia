@@ -37,7 +37,7 @@ The project is split into two parts:
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Merged multiple datasets using timestamps
